@@ -1,0 +1,8 @@
+*.iml
+.DS*
+target
+.settings
+.project
+.classpath
+.springBeans
+.idea
