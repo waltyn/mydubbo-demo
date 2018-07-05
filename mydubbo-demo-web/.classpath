@@ -33,5 +33,52 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-admin"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-cluster"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-config-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-config-spring"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-container-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-container-jetty"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-container-log4j"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-container-logback"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-container-spring"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-demo-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-demo-consumer"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-demo-provider"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-filter-cache"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-filter-validation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-monitor-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-monitor-default"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-monitor-simple"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-registry-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-registry-default"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-registry-multicast"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-registry-redis"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-registry-simple"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-registry-zookeeper"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-remoting-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-remoting-grizzly"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-remoting-http"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-remoting-mina"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-remoting-netty"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-remoting-p2p"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-remoting-zookeeper"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-default"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-hessian"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-http"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-injvm"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-memcached"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-redis"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-rmi"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-thrift"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-rpc-webservice"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-test-benchmark"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-test-compatibility"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-test-examples"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dubbo-test-integration"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hessian-lite"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
